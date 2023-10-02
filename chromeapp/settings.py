@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'cloudinary',
     'rest_framework',
     'upload',
-    
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
